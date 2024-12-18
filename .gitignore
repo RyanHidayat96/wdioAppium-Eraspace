@@ -12,15 +12,3 @@ node_modules/
 npm-debug.log
 
 # custom
-apps/
-*.log
-chromeDriver
-.tmp
-
-allure-report/
-allure-results
-
-tests/reports
-config/wdio.android.app.conf.ts
-package-lock.json
-package.json
